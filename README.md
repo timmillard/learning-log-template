@@ -14,13 +14,13 @@ A log for tracking my progress while I learn about programming and web developme
 
   - Click the "Rename" button next to your new repository name to save it. All done!
 
-### To view your learning log entries:
+### To view your learning log entries on GitHub:
 
   - Go to github.com/***your-username-here***/***your-repository-name-here***/
 
   - You'll see a list of your files, one for each log entry. To view them, click on the file name!
 
-### To edit your learning log entries:
+### To edit your learning log entries on GitHub:
 
   - Go to github.com/***your-username-here***/***your-repository-name-here***/
 
