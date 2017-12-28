@@ -2,7 +2,8 @@
 
 A log for tracking my progress while I learn about programming and web development! (Initially created as part of a [Learn Teach Code](https://github.com/LearnTeachCode) class.)
 
-**The learning log app (https://github.com/LearnTeachCode/learning-log)** helps students document their learning process on GitHub without requiring any prior experience with Git or GitHub! Using simple web interface, students can post learning log entries right away and then gradually move to using Git and GitHub as they learn more.
+**About the learning log app (https://github.com/LearnTeachCode/learning-log):**
+This Learn Teach Code project helps students document their learning process on GitHub without requiring any prior experience with Git or GitHub! Using simple web interface, students can post learning log entries right away and then gradually move to using Git and GitHub as they learn more.
 
 ## Instructions
 
