@@ -16,13 +16,13 @@ A log for tracking my progress while I learn about programming and web developme
 
 ### To view your learning log entries:
 
-  - Go to github.com/***your-username-here***/your-repository-name-here/
+  - Go to github.com/***your-username-here***/***your-repository-name-here***/
 
   - You'll see a list of your files, one for each log entry. To view them, click on the file name!
 
 ### To edit your learning log entries:
 
-  - Go to github.com/***your-username-here***/your-repository-name-here/
+  - Go to github.com/***your-username-here***/***your-repository-name-here***/
 
   - In the list of files, click on the file name for the entry you want to edit.
 
